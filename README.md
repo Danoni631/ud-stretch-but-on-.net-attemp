@@ -1,2 +1,2 @@
 # ud-stretch-but-on-.net-attemp
-idk why i made this
+is a simple attemp of UltraDasher stretching effect on .NET (CSharp obvlious)
